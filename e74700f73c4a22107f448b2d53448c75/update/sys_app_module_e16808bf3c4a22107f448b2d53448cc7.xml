@@ -18,14 +18,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-06-16 23:09:28</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e16808bf3c4a22107f448b2d53448cc7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e74700f73c4a22107f448b2d53448c75</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Loaner Request">e74700f73c4a22107f448b2d53448c75</sys_scope>
         <sys_update_name>sys_app_module_e16808bf3c4a22107f448b2d53448cc7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-17 00:07:18</sys_updated_on>
+        <sys_updated_on>2025-06-19 19:23:17</sys_updated_on>
         <timeline_page/>
         <title>All</title>
         <uncancelable>false</uncancelable>
