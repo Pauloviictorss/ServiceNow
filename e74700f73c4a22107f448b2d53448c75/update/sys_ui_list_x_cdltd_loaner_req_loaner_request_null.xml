@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>b42d6694459222107f44c57051c6667b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>7c2d6694459222107f44c57051c6667b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>fc2d6694459222107f44c57051c6667b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>702d6694459222107f44c57051c6667c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>f02d6694459222107f44c57051c6667c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>742d6694459222107f44c57051c6667c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_for</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>f42d6694459222107f44c57051c6667c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location_to_be_used</element>
+            <list_id display_value="x_cdltd_loaner_req_loaner_request" element="NULL" name="x_cdltd_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f82d6694459222107f44c57051c66679</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_id>782d6694459222107f44c57051c6667c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-19 00:26:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f82d6694459222107f44c57051c66679</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e74700f73c4a22107f448b2d53448c75</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">e74700f73c4a22107f448b2d53448c75</sys_scope>
+            <sys_update_name>sys_ui_list_x_cdltd_loaner_req_loaner_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-19 00:26:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
